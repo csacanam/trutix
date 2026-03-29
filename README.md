@@ -189,7 +189,7 @@ trutix/
 
 ## Author
 
-Camilo Saka - [@camilosaka](https://twitter.com/camilosaka)
+Camilo Sacanamboy - [@camilosaka](https://twitter.com/camilosaka)
 
 ---
 
