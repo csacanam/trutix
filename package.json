@@ -1,0 +1,15 @@
+{
+  "name": "trutix",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Trutix - Decentralized P2P Ticket Trading Platform",
+  "scripts": {
+    "dev:backend": "cd backend && npm run dev",
+    "dev:frontend": "cd frontend && npm run dev",
+    "start:backend": "cd backend && npm start",
+    "build:frontend": "cd frontend && npm run build",
+    "test:contracts": "cd contracts && npx hardhat test",
+    "compile:contracts": "cd contracts && npx hardhat compile",
+    "install:all": "cd backend && npm install && cd ../contracts && npm install && cd ../frontend && npm install"
+  }
+}
